@@ -42,7 +42,7 @@ def scrape_files_to_txt(root_folder, output_file, exclude_paths=None):
 
 # Example usage:
 scrape_files_to_txt(
-    root_folder="",
+    root_folder="path/to/your/folder",
     output_file="output.txt",
     exclude_paths=[],
 )
